@@ -1,8 +1,8 @@
-# MyToken
+### MyToken
 
-# Solidity Contract
+## Solidity Contract
 
-Description
+# Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions, mint and burn, which allow for the creation and destruction of tokens. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
